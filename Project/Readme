@@ -1,1 +1,4 @@
-Analysing pedestrians (or humans) in videos is one of the most common applications of Computer Vision. A wide range of practical scenarios ranging from simple domestic surveillance to self-driving cars thrive on the success of pedestrian detection, tracking and advanced analysis of motion. Many well-established computer vision techniques in conjunction with machine learning techniques are useful in this task. These may include image / video pre-processing, feature extraction, classification, motion detection, tracking and recognition, and also deep-CNN algorithms.
+Analysing pedestrians (or humans) in videos is one of the most common applications of Computer Vision. 
+A wide range of practical scenarios ranging from simple domestic surveillance to self-driving cars thrive on the success of pedestrian detection, 
+tracking and advanced analysis of motion. Many well-established computer vision techniques in conjunction with machine learning techniques are useful in this task. 
+These may include image / video pre-processing, feature extraction, classification, motion detection, tracking and recognition, and also deep-CNN algorithms.
